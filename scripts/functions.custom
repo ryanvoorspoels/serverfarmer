@@ -7,7 +7,7 @@
 
 
 external_domain() {
-	echo "tomaszklim.pl"
+	echo "vp1.cluster.enitek.be"
 }
 
 internal_domain() {
@@ -19,11 +19,11 @@ local_backup_directory() {
 }
 
 management_public_ip_range() {
-	echo "88.99.100.17"
+	echo "37.97.150.176"
 }
 
 primary_admin_account() {
-	echo "tomek"
+	echo "administrator"
 }
 
 heartbeat_url() {
